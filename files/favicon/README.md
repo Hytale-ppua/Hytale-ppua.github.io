@@ -17,7 +17,7 @@ Insert the following code in the `head` section of your pages:
     <link rel="icon" type="image/png" sizes="16x16" href="https://hytale.pp.ua/files/favicon/favicon-16x16.png">
     <link rel="manifest" href="https://hytale.pp.ua/files/favicon/site.webmanifest">
     <link rel="mask-icon" href="https://hytale.pp.ua/files/favicon/safari-pinned-tab.svg" color="#5bbad5">
-    <link rel="shortcut icon" href="https://hytale.pp.ua/files/favicon/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileImage" content="https://hytale.pp.ua/files/favicon/mstile-144x144.png">
     <meta name="msapplication-config" content="https://hytale.pp.ua/files/favicon/browserconfig.xml">
