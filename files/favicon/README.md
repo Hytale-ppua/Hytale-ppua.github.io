@@ -6,7 +6,7 @@ This package was generated with [RealFaviconGenerator](https://realfavicongenera
 
 To install this package:
 
-Extract this package in <code>https://hytale.pp.ua/files/favicon/</code>. For example, you should be able to access a file named <code>https://hytale.pp.ua/files/favicon/favicon.ico</code>.
+Extract this package in <code>https://hytale.pp.ua/files/favicon/</code>. For example, you should be able to access a file named <code>https://hytale.pp.ua/favicon.ico</code>.
 
 Insert the following code in the `head` section of your pages:
 
